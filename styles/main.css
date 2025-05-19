@@ -101,3 +101,10 @@ footer {
 		padding-bottom: 0; 
 	}
 }
+
+/* videoo styles */
+video {
+    float: left;
+    margin-right: 1em;
+    width: 400px;
+}
